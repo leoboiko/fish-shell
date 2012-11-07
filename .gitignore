@@ -7,6 +7,7 @@ autom4te.cache/
 builtin_scripts.cpp
 builtin_scripts.h
 command_list.txt
+confdefs.h
 config.h
 config.h.in
 config.log
